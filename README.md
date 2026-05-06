@@ -1,8 +1,8 @@
 # 🧬 AMR Guardian
 ### AI-Powered Antimicrobial Resistance Surveillance for Pakistan
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-amr-guardian.streamlit.app)
-[![HuggingFace Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/manan348/amr-guardian)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amr-guardian-sdwsei69ybewaeeqcvemno.streamlit.app)
+[![HuggingFace Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-blue)](https://thisisamirfaisal-amr-guardian.hf.space)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Groq](https://img.shields.io/badge/Powered%20by-Groq%20llama--3.3--70b-orange)](https://groq.com)
@@ -43,8 +43,8 @@ AMR Guardian is a real-time AMR surveillance platform that:
 
 | Platform | Link |
 |---|---|
-| **Streamlit Cloud** | [Launch App](https://your-username-amr-guardian.streamlit.app) |
-| **Hugging Face** | [Launch App](https://huggingface.co/spaces/manan348/amr-guardian) |
+| **Streamlit Cloud** | [Launch App](https://amr-guardian-sdwsei69ybewaeeqcvemno.streamlit.app) |
+| **Hugging Face** | [Launch App](https://thisisamirfaisal-amr-guardian.hf.space) |
 
 ---
 
@@ -128,7 +128,7 @@ amr-guardian/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/amr-guardian.git
+git clone https://github.com/thisisamirfaisal/amr-guardian.git
 cd amr-guardian
 pip install -r requirements.txt
 ```
